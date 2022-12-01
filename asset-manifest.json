@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-canvas-crosslines/static/css/main.0ba2d5b4.css",
+    "main.js": "/react-canvas-crosslines/static/js/main.572c9479.js",
+    "index.html": "/react-canvas-crosslines/index.html",
+    "main.0ba2d5b4.css.map": "/react-canvas-crosslines/static/css/main.0ba2d5b4.css.map",
+    "main.572c9479.js.map": "/react-canvas-crosslines/static/js/main.572c9479.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba2d5b4.css",
+    "static/js/main.572c9479.js"
+  ]
+}
